@@ -1,4 +1,4 @@
-Working project as of 20220822.
+Working project as of 20220915.
 
 Has been tested using nRF52DK and EV-BC832.
 
